@@ -54,4 +54,14 @@ Berkshire Hathaway exhibited the highest volatility with the widest range, while
 
 Annualized Standard Deviation (252 trading days) of the 4 portfolios and the S&P 500
 
+---
+
+![Display](Resources/21rollingday.jpg)
+
+A 21-day rolling window for visualizing the rolling standard deviations of the four fund portfolios.
+
+---
+
+ 
+
 
