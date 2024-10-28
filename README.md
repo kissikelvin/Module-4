@@ -30,7 +30,7 @@ Read each CSV file into a DataFrame using Pandas. Next, clean the data by conver
 
 ![Display](Resources/Dataframe.jpg)
 
-## Analyze the Performance
+## Performance Analysis
 
 ![Display](Resources/Performance.jpg)
 
