@@ -40,4 +40,8 @@ Read each CSV file into a DataFrame using Pandas. Next, clean the data by conver
 
 According to the cumulative return data and visualizations, none of the four fund portfolios surpassed the performance of the S&P 500.
 
+---
+
+![Display](Resources/Boxplot.jpg)
+
 
