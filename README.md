@@ -23,4 +23,9 @@ In this Jupyter Notebook, I use Python and Pandas quantitative analytical tools 
 </div>
 
 ---
-                          
+
+## Read and Clean Data
+
+Read each CSV file into a DataFrame using Pandas. Next, clean the data by converting dates to a DateTimeIndex, identifying and removing all null values, and adjusting data types as necessary. Finally, concatenate all the DataFrames into a single DataFrame to perform quantitative analysis and determine if any portfolios outperform the S&P 500.
+
+![Display](Resources/Dataframe.jpg)
