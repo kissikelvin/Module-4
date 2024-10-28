@@ -62,6 +62,12 @@ A 21-day rolling window for visualizing the rolling standard deviations of the f
 
 ---
 
+## Shape Ratios
+
+![Display](Resources/sharperatios.jpg)
+
+The Sharpe Ratios plot indicates that BERSHIRE HATHAWAY INC provides the best risk-return profile, while PAULSON & CO INC presents the least favorable risk-return characteristics.
+
  
 
 
