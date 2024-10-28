@@ -44,4 +44,8 @@ According to the cumulative return data and visualizations, none of the four fun
 
 ![Display](Resources/Boxplot.jpg)
 
+Berkshire Hathaway exhibited the highest volatility with the widest range, while Soros showed the least volatility.
+
+---
+
 
