@@ -48,4 +48,10 @@ Berkshire Hathaway exhibited the highest volatility with the widest range, while
 
 ---
 
+## Risk Analysis 
+
+![Display](Resources/Standardd.jpg)
+
+Standard Daviation: Annualized Standard Deviation (252 trading days) of the 4 portfolios and the S&P 500
+
 
