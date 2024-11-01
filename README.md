@@ -1,3 +1,4 @@
+<meta name="msvalidate.01" content="22E26E71FA9EEE3C8FCBA57297784F5B" />
 # Quantitative Portfolio Analysis 
 
 *by KELVIN KISSI*
