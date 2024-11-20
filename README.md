@@ -4,6 +4,8 @@
 
 ![Display](Resources/Portfolio.jpg)
 
+_image from_ [Source](https://www.freepik.com/premium-vector/professional-analysis-report-research-result-chart-diagram-presentation_346062268.htm)
+
 ---
 
 ## Background
